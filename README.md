@@ -1,2 +1,2 @@
 # testFolder
-test folder for js.
+test folder for school.
